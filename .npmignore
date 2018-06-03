@@ -1,0 +1,7 @@
+/shrinkwrap.yaml
+/package-lock.json
+/node_modules
+.gitignore
+.DS_Store
+readme.md
+test.js
